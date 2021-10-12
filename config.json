@@ -1,9 +1,9 @@
 {
   "name": "simpleSYC",
-  "repo": "blog_united_store",
-  "client_id": "36e5e56d88e012d48d2b",
-  "client_secret": "abd0316ba142ec85280d0cf07365e26b3957d318",
-  "title": "Blog of united-stores",
+  "repo": "BLOG.delta-sync",
+  "client_id": "639ad074a56944435dac",
+  "client_secret": "5bc91a5d4b07683145212fbc8684d4895ebbc9a3",
+  "title": "Blog of Delta Sync",
   "instruction": "Welcome to our BLOG",
   "server_link": "https://119.23.8.25/gh-oauth-server.php",
   "filter": {
@@ -22,8 +22,8 @@
   },
   "icons": {
     "Github": {
-      "FRAME_CSS": "transform: scale(0.3); margin-bottom: 20px",
-      "LOGO_CSS": "width: 323.438px;height: 323.438px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%) scale(0.7);border-radius: 50%",
+      "FRAME_CSS": "transform: scale(0.3); margin-bottom: -60px",
+      "LOGO_CSS": "width: 332px;height: 126px !important",
       "icon_src": "./GLOBAL/MEDIA/github.svg",
       "href": null,
       "hidden_img": null,

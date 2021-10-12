@@ -160,7 +160,7 @@ var gitblog = function (config) {
     this.page = new Pages();
     this.icons = [];
     this.icon_num = 0;
-    this.content = "<p> " + EL_["Project"] + ' <i style="font-size:16px">&#169;</i> ' + new Date().getFullYear() + "</p>";
+    this.content = "<p> " + EL_["SVG"]["Project"] + ' <i style="font-size:16px">&#169;</i> ' + new Date().getFullYear() + "</p>";
   };
 
   Footer.prototype = {

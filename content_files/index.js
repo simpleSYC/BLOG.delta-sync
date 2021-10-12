@@ -1,6 +1,6 @@
 const EL_ = {
   SVG: {
-    Project: "united-store",
+    Project: "delta-sync",
     SET_LOGO: function () {
       setTimeout(() => {
         let logo_svg = document.getElementById("futer_logo_svg");
