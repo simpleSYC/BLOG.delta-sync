@@ -368,7 +368,7 @@ var gitblog = function (config) {
             }
           }
           reaction.num = data.length;
-          reaction.show(type, id);
+          ///////// da pokazuyva kolku lajkove ima          reaction.show(type, id);
         },
       });
     },

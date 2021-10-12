@@ -76,7 +76,7 @@ function Load_Dodatok() {
   let O = {
     FILE: {
       0: "./GLOBAL/JS/gitblog",
-      1: "https://static-data.pages.dev/media/" + EL_["Project"] + "/svg",
+      1: "https://static-data.pages.dev/media/" + EL_["SVG"]["Project"] + "/svg",
     },
     JS: {
       0: '<script type="text/javascript" src="',
